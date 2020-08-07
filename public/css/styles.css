@@ -1,0 +1,16 @@
+body {
+  background-color: #e8ecef;
+}
+.centered {
+  padding-top: 200px;
+  text-align: center;
+}
+.center {
+  text-align: center;
+}
+.mt {
+  margin-top: 5em;
+}
+.row {
+  justify-content: center;
+}
