@@ -16,3 +16,5 @@ For Frontend,I'm using just HTML,CSS, and Javascript</br>
 
 ## Deployed Link </br>
 The app can be deployed at https://quiz-bot-task.herokuapp.com/
+
+![alt](quiz-bot-output.mp4)
